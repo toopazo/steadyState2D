@@ -2,5 +2,5 @@
 
 Solutions for a vehicle 2D flight angles 
 
-![](steadyState2D_stabilityAxis.jpg)
+![](https://github.com/toopazo/steadyState2D/blob/master/steadyState2D_stabilityAxis.jpeg)
 
